@@ -4,7 +4,7 @@ React JS Web Application using React Hooks to check votes between 3 artists.
 
 > The project not fetch data from a real API
 
-![app react-countries](https://github.com/V-Coyote/react-votes/blob/master/frontend/public/react-salario.png?raw=true)
+![app react-votes](https://github.com/V-Coyote/react-votes/blob/master/frontend/public/react-votes.png?raw=true)
 
 ## How to start in your machine
 
